@@ -1,2 +1,2 @@
 # scala-playground
-A repo for python studies, fun and experiments.
+A repo for scala studies, fun and experiments.
